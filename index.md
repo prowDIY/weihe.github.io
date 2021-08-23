@@ -65,7 +65,6 @@
             <li><p>
                 <b>2021/10/06</b>: One paper accepted to TIP.
             </p></li>
-    </div>
 
     <div>
         <h2><hr><a name="interest"></a>Research Interests</h2>
