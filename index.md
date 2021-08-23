@@ -1,37 +1,124 @@
-## Welcome to GitHub Pages
+<html>
 
-You can use the [editor on GitHub](https://github.com/prowDIY/weihe.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <title>Wei He (Research Scientist at RIKEN-AIP)</title>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<h1 style="padding-left: 0.5em">Wei He (Research Scientist at RIKEN-AIP)</h1><hr>
+<td id="layout-menu">
+    <div class="menu-item"><a href="index.html" class="current">Home</a></div>
+</td>
+<td id="layout-content">
 
-### Markdown
+    <h1 style="margin-top: 0em">Home</h1><br>
+    <p>[ <a href="#bio">Short Bio</a>,
+         <a href="#news">News</a>,
+         <a href="#interest">Research Interests</a>,
+         <a href="#job">Job Experience</a>,
+         <a href="#edu">Education</a> ]</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <table class="imgtable"><tr valign="top">
+        <td><img src="hewei白底.jpg" alt="Wei He" style="width:13em; height:auto" /></td>
+        <td align="left">
+            <p><span style="font-size: 110%"><b>Wei He, D.Eng.</b></span></p>
+            <p>
+                Research Scientist,<br>
+                Geoinformatics Unit,<br>
+                <a href="http://www.riken.jp/en/" target="_blank">RIKEN</a>
+                <a href="http://aip.riken.jp/" target="_blank">Center for Advanced Intelligence Project.</a>
+            </p>
+            <p>
+                Nihonbashi 1-chome Mitsui Building, 15th floor,<br>
+                1-4-1 Nihonbashi, Chuo-ku, Tokyo 103-0027, Japan.<br>
+            </p>
+            <p>
+                [E-mail: <b>wei.he@riken.jp</b><br>;  <b>weihe1990@whu.edu.cn</b><br>
+                <a href="https://scholar.google.com.hk/citations?user=5qWEM-oAAAAJ&hl=zh-CN&oi=sra" target="_blank">Google Scholar</a>
+            </p>
+        </td>
+    </tr></table>
+    
+    
+    <!-- <p><font color="#FF0000">We are organizing an <b>IJCAI 2021 workshop</b> on <b>weakly supervised representation learning</b>
+    <a href="http://wsl-workshop.github.io/" target="_blank">(CFP)</a><br>
+    as well as a <b>special issue of Machine Learning journal</b> on the same topic
+    <a href="http://www.springer.com/journal/10994/updates/19149940" target="_blank">(CFP)</a>. Welcome to submit!</font></p> -->
+    
+    <div>
+        <h2><hr><a name="bio"></a>Short Bio</h2>
+        <p>
+            Gang Niu is currently a research scientist (indefinite-term) at RIKEN Center for Advanced Intelligence Project. He received the PhD degree in computer science from Tokyo Institute of Technology in 2013. Before joining RIKEN as a research scientist, he was a senior software engineer at Baidu and then an assistant professor at the University of Tokyo. He has published more than 70 journal articles and conference papers, including 14 NeurIPS (1 oral and 3 spotlights), 28 ICML, and 2 ICLR (1 oral) papers. He has served as an area chair 14 times, including ICML 2019--2021, NeurIPS 2019--2021, and ICLR 2021--2022.
+        </p>
+    </div>
+    
+    <div>
+        <h2><hr><a name="news"></a>News</h2>
+        <ul>
+            <li><p>
+                <b>2021/10/06</b>: One paper accepted to TIP.
+            </p></li>
+    </div>
 
-```markdown
-Syntax highlighted code block
+    <div>
+        <h2><hr><a name="interest"></a>Research Interests</h2>
+        <ul>
+            <li><p>Weakly supervised learning (including semi-supervised learning)</p></li>
+            <li><p>Deep learning and representation learning</p></li>
+        </ul>
+    </div>
 
-# Header 1
-## Header 2
-### Header 3
+    <div>
+        <h2><hr><a name="job"></a>Job Experience</h2>
+        <ul>
+            <li><p>
+                <b>Research Scientist</b> (Since April 2018; tenured in October 2020)<br>
+                RIKEN Center for Advanced Intelligence Project, Tokyo, Japan.
+            </p></li>
+            <li><p>
+                <b>Visiting Scientist</b> (September 2017--March 2018)<br>
+                RIKEN Center for Advanced Intelligence Project, Tokyo, Japan.
+            </p></li>
+            <li><p>
+                <b>Assistant Professor</b> (September 2015--March 2018)<br>
+                Dept. of Complexity Science and Engineering, The University of Tokyo, Tokyo, Japan.
+            </p></li>
+            <li><p>
+                <b>Senior RD Engineer</b> (April 2014--July 2015)<br>
+                Dept. of Natural Language Processing, Baidu, Beijing, China.
+            </p></li>
+            <li><p>
+                <b>Postdoctoral Fellow</b> (October 2013--March 2014)<br>
+                Dept. of Computer Science, Tokyo Institute of Technology, Tokyo, Japan.
+            </p></li>
+        </ul>
+    </div>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prowDIY/weihe.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    <div>
+        <h2><hr><a name="edu"></a>Education</h2>
+        <ul>
+            <li><p>
+                <b>Doctor of Engineering</b> (September 2013)<br>
+                Dept. of Computer Science, Tokyo Institute of Technology, Tokyo, Japan.<br>
+                Supervised by Prof. Masashi Sugiyama.
+            </p></li>
+            <li><p>
+                <b>Master of Engineering</b> (July 2010)<br>
+                Dept. of Computer Science and Technology, Nanjing University, Nanjing, China.<br>
+                Supervised by Prof. Lin Shang.
+            </p></li>
+            <li><p>
+                <b>Bachelor of Science</b> (July 2007)<br>
+                Dept. of Mathematics, Southeast University, Nanjing, China.
+            </p></li>
+        </ul>
+    </div>
+</td>
+</tr>
+</table>
+</body>
+</html>
