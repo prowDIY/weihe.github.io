@@ -121,8 +121,4 @@
             </p></li>
         </ul>
     </div>
-</td>
-</tr>
-</table>
-</body>
-</html>
+
