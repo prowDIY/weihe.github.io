@@ -12,6 +12,7 @@
 <h1 style="padding-left: 0.5em">Wei He (Research Scientist at RIKEN-AIP)</h1><hr>
 <td id="layout-menu">
     <div class="menu-item"><a href="index.html" class="current">Home</a></div>
+    <div class="menu-item"><a href="publication.html">Publications</a></div>
 </td>
 <td id="layout-content">
 
@@ -58,7 +59,7 @@
         <h2><hr><a name="news"></a>News</h2>
         <ul>
             <li><p>
-                <b>2021/10/06</b>: One paper accepted to TIP.
+                <b>2021/08/02</b>: One paper accepted to TIP.
             </p></li>
         </ul>
     <div>
