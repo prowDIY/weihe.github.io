@@ -47,11 +47,6 @@
     </tr></table>
     
     
-    <!-- <p><font color="#FF0000">We are organizing an <b>IJCAI 2021 workshop</b> on <b>weakly supervised representation learning</b>
-    <a href="http://wsl-workshop.github.io/" target="_blank">(CFP)</a><br>
-    as well as a <b>special issue of Machine Learning journal</b> on the same topic
-    <a href="http://www.springer.com/journal/10994/updates/19149940" target="_blank">(CFP)</a>. Welcome to submit!</font></p> -->
-    
     <div>
         <h2><hr><a name="bio"></a>Short Bio</h2>
         <p>
@@ -85,7 +80,7 @@
                 PI: Dr. Naoto Yokoya   
             </p></li>
             <li><p>
-                <b>PostDoc Resercher</b> (2018.01--2020.06)<br>
+                <b>PostDoc</b> (2018.01--2020.06)<br>
                 RIKEN Center for Advanced Intelligence Project, Tokyo, Japan.
                 PI: Dr. Naoto Yokoya 
             </p></li>
