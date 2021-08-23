@@ -26,27 +26,22 @@
     <table class="imgtable"><tr valign="top">
         <td><img src="imgs/hewei.jpg" alt="Wei He" style="width:13em; height:auto" /></td>
         <td align="left">
-            <p><span style="font-size: 110%"><b>Gang Niu, D.Eng.</b></span></p>
+            <p><span style="font-size: 110%"><b>Wei He, D.Eng.</b></span></p>
             <p>
-                Research Scientist (indefinite-term),<br>
-                Imperfect Information Learning Team,<br>
+                Research Scientist,<br>
+                Geoinformatics Unit,<br>
                 <a href="http://www.riken.jp/en/" target="_blank">RIKEN</a>
                 <a href="http://aip.riken.jp/" target="_blank">Center for Advanced Intelligence Project.</a>
-            </p>
-            <p>
-                Adjunct Professor,<br>
-                School of Computer Science and Engineering,<br>
-                Southeast University.
             </p>
             <p>
                 Nihonbashi 1-chome Mitsui Building, 15th floor,<br>
                 1-4-1 Nihonbashi, Chuo-ku, Tokyo 103-0027, Japan.<br>
             </p>
             <p>
-                E-mail: <b>gang.niu.ml [at] gmail.com</b><br>
-                [ <a href="https://scholar.google.co.jp/citations?user=HOkcy00AAAAJ&hl=en" target="_blank">Google Scholar</a>,
-                  <a href="https://www.semanticscholar.org/author/Gang-Niu/47537639" target="_blank">Semantic Scholar</a>,
-                  <a href="https://dblp.org/pid/26/3367-1.html" target="_blank">DBLP</a> ]
+                E-mail: <b>wei.he@riken.jp; weihe1990@whu.edu.cn</b><br>
+            </p>
+            <p>
+                <a href="https://scholar.google.com.hk/citations?user=5qWEM-oAAAAJ&hl=zh-CN&oi=sra" target="_blank">Google Scholar</a>
             </p>
         </td>
     </tr></table>
