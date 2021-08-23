@@ -72,32 +72,20 @@
         <h2><hr><a name="interest"></a>Research Interests</h2>
         <ul>
             <li><p>Weakly Image quality improvement，hyperspectral imaging，remote sensing</p></li>
-            <li><p>Deep learning for the inverse problem，computer version，low-rank representation</p></li>
+            <li><p>Deep learning for the inverse problem，computer version，low-rank</p></li>
         </ul>
     </div>
 
     <div>
-        <h2><hr><a name="job"></a>Job Experience</h2>
+        <h2><hr><a name="job"></a>Working Experience</h2>
         <ul>
             <li><p>
-                <b>Research Scientist</b> (Since April 2018; tenured in October 2020)<br>
+                <b>Research Scientist</b> (Since 2020.07)<br>
                 RIKEN Center for Advanced Intelligence Project, Tokyo, Japan.
             </p></li>
             <li><p>
-                <b>Visiting Scientist</b> (September 2017--March 2018)<br>
+                <b>PostDoc Resercher</b> (2018.01--2020.06)<br>
                 RIKEN Center for Advanced Intelligence Project, Tokyo, Japan.
-            </p></li>
-            <li><p>
-                <b>Assistant Professor</b> (September 2015--March 2018)<br>
-                Dept. of Complexity Science and Engineering, The University of Tokyo, Tokyo, Japan.
-            </p></li>
-            <li><p>
-                <b>Senior RD Engineer</b> (April 2014--July 2015)<br>
-                Dept. of Natural Language Processing, Baidu, Beijing, China.
-            </p></li>
-            <li><p>
-                <b>Postdoctoral Fellow</b> (October 2013--March 2014)<br>
-                Dept. of Computer Science, Tokyo Institute of Technology, Tokyo, Japan.
             </p></li>
         </ul>
     </div>
