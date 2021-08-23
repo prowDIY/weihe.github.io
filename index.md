@@ -71,8 +71,8 @@
     <div>
         <h2><hr><a name="interest"></a>Research Interests</h2>
         <ul>
-            <li><p>Weakly supervised learning (including semi-supervised learning)</p></li>
-            <li><p>Deep learning and representation learning</p></li>
+            <li><p>Weakly Image quality improvement，hyperspectral imaging，remote sensing</p></li>
+            <li><p>Deep learning for the inverse problem，computer version，low-rank representation</p></li>
         </ul>
     </div>
 
