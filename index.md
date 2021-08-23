@@ -23,7 +23,7 @@
          <a href="#edu">Education</a> ]</p>
 
     <table class="imgtable"><tr valign="top">
-        <td><imgs src="hewei白底.jpg" alt="Wei He" style="width:13em; height:auto" /></td>
+        <td><src="imgs/hewei白底.jpg" alt="Wei He" style="width:13em; height:auto" /></td>
         <td align="left">
             <p><span style="font-size: 110%"><b>Wei He, D.Eng.</b></span></p>
             <p>
