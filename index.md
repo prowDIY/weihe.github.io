@@ -82,10 +82,12 @@
             <li><p>
                 <b>Research Scientist</b> (Since 2020.07)<br>
                 RIKEN Center for Advanced Intelligence Project, Tokyo, Japan.
+                PI: Dr. Naoto Yokoya   
             </p></li>
             <li><p>
                 <b>PostDoc Resercher</b> (2018.01--2020.06)<br>
                 RIKEN Center for Advanced Intelligence Project, Tokyo, Japan.
+                PI: Dr. Naoto Yokoya 
             </p></li>
         </ul>
     </div>
@@ -94,18 +96,13 @@
         <h2><hr><a name="edu"></a>Education</h2>
         <ul>
             <li><p>
-                <b>Doctor of Engineering</b> (September 2013)<br>
-                Dept. of Computer Science, Tokyo Institute of Technology, Tokyo, Japan.<br>
-                Supervised by Prof. Masashi Sugiyama.
+                <b>Doctor Degree</b> (2012.09--2017.06)<br>
+                LIESMARS, Wuhan University, Wuhan, China<br>
+                Supervisor: Liangpei Zhang & Hongyan Zhang
             </p></li>
             <li><p>
-                <b>Master of Engineering</b> (July 2010)<br>
-                Dept. of Computer Science and Technology, Nanjing University, Nanjing, China.<br>
-                Supervised by Prof. Lin Shang.
-            </p></li>
-            <li><p>
-                <b>Bachelor of Science</b> (July 2007)<br>
-                Dept. of Mathematics, Southeast University, Nanjing, China.
+                <b>Bachelor Degree</b> (2008.09--2012.06)<br>
+                the School of Mathematics and Statistics, Wuhan University, Wuhan, China 
             </p></li>
         </ul>
     </div>
