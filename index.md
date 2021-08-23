@@ -12,7 +12,7 @@
 <h1 style="padding-left: 0.5em">Wei He (Research Scientist at RIKEN-AIP)</h1><hr>
 <td id="layout-menu">
     <div class="menu-item"><a href="index.md" class="current">Home</a></div>
-    <div class="menu-item"><a href="publication.html">Publications</a></div>
+    <div class="menu-item"><a href="publication.md">Publications</a></div>
 </td>
 <td id="layout-content">
 
