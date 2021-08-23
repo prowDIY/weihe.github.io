@@ -77,12 +77,12 @@
         <ul>
             <li><p>
                 <b>Research Scientist</b> (Since 2020.07)<br>
-                RIKEN Center for Advanced Intelligence Project, Tokyo, Japan.
+                RIKEN Center for Advanced Intelligence Project, Tokyo, Japan.<br>
                 PI: Dr. Naoto Yokoya   
             </p></li>
             <li><p>
                 <b>PostDoc</b> (2018.01--2020.06)<br>
-                RIKEN Center for Advanced Intelligence Project, Tokyo, Japan.
+                RIKEN Center for Advanced Intelligence Project, Tokyo, Japan.<br>
                 PI: Dr. Naoto Yokoya 
             </p></li>
         </ul>
