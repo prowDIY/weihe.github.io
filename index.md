@@ -39,8 +39,9 @@
             <p>
                 E-mail: <b>wei.he@riken.jp; weihe1990@whu.edu.cn</b><br>
             </p>
+            <p>
                 <a href="https://scholar.google.com.hk/citations?user=5qWEM-oAAAAJ&hl=zh-CN&oi=sra" target="_blank">Google Scholar</a>
-      
+            </p>
         </td>
     </tr></table>
     
