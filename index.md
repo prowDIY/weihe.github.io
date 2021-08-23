@@ -55,7 +55,7 @@
     <div>
         <h2><hr><a name="bio"></a>Short Bio</h2>
         <p>
-            Gang Niu is currently a research scientist (indefinite-term) at RIKEN Center for Advanced Intelligence Project. He received the PhD degree in computer science from Tokyo Institute of Technology in 2013. Before joining RIKEN as a research scientist, he was a senior software engineer at Baidu and then an assistant professor at the University of Tokyo. He has published more than 70 journal articles and conference papers, including 14 NeurIPS (1 oral and 3 spotlights), 28 ICML, and 2 ICLR (1 oral) papers. He has served as an area chair 14 times, including ICML 2019--2021, NeurIPS 2019--2021, and ICLR 2021--2022.
+            Wei He is currently a research scientist at Geoinformatics Unit, the RIKEN Center for Advanced Intelligence Project (AIP), Japan. His research interests include remote sensing image restoration, low-rank modeling, and deep learning.
         </p>
     </div>
     
