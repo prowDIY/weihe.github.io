@@ -23,7 +23,7 @@
          <a href="#edu">Education</a> ]</p>
 
     <table class="imgtable"><tr valign="top">
-        <td><src="imgs/hewei白底.jpg" alt="Wei He" style="width:13em; height:auto" /></td>
+        <td><img src="imgs/hewei白底.jpg" alt="Wei He" style="width:13em; height:auto" /></td>
         <td align="left">
             <p><span style="font-size: 110%"><b>Wei He, D.Eng.</b></span></p>
             <p>
@@ -40,7 +40,7 @@
                 E-mail: <b>wei.he@riken.jp; weihe1990@whu.edu.cn</b><br>
             </p>
                 <a href="https://scholar.google.com.hk/citations?user=5qWEM-oAAAAJ&hl=zh-CN&oi=sra" target="_blank">Google Scholar</a>
-            </p>
+      
         </td>
     </tr></table>
     
